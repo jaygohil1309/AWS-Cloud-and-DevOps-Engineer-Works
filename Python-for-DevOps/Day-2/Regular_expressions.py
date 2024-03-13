@@ -18,19 +18,26 @@
 
 import re
 
-nameage = """Jay is 22 and Megha is 23 Yuvi is 25 and Suchit is 26"""
+# nameage = """Jay is 22 and Megha is 23 Yuvi is 25 and Suchit is 26"""
 
-ages = re.findall(r"\d{1,3}", nameage) # Find Two digit numbers....
-print(ages)
+# ages = re.findall(r"\d{1,3}", nameage) # Find Two digit numbers....
+# print(ages)
 
-names = re.findall(r'[A-Z][a-z]*', nameage) # Find names.....
-print(names)
+# names = re.findall(r'[A-Z][a-z]*', nameage) # Find names.....
+# print(names)
 
-agedict = {} # Create Dictionary name with age.....
+# agedict = {} # Create Dictionary name with age.....
 
-x = 0
-for eachname in names:
-    agedict[eachname]=ages[x]
-    x+=1
-print(agedict)
+# x = 0
+# for eachname in names:
+#     agedict[eachname]=ages[x]
+#     x+=1
+# print(agedict)
+
+str = "We need to inform him with the latest information"
+
+for i in re.finditer('inform', str):
+    tuple = i.span()
+    print(tuple)
+
 
