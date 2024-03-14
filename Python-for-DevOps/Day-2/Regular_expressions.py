@@ -38,6 +38,4 @@ str = "We need to inform him with the latest information"
 
 for i in re.finditer('inform', str):
     tuple = i.span()
-    print(tuple)
-
-
+    print(tuple) 
