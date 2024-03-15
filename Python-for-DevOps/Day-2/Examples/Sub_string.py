@@ -48,6 +48,4 @@ print(substring4)  # Output: "world"
 
         4) Negative indices can be used to count from the end of the string.
 
-
-
 """
