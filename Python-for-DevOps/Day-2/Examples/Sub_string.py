@@ -35,3 +35,19 @@ print(substring3)  # Output: "world"
 
 substring4 = my_string[-6:-1]
 print(substring4)  # Output: "world"
+
+"""
+
+==>> In Python slicing:
+
+        1) string[start:end] extracts characters from index start to end-1.
+
+        2) If start is omitted, it defaults to the beginning of the string.
+
+        3) If end is omitted, it defaults to the end of the string.
+
+        4) Negative indices can be used to count from the end of the string.
+
+
+
+"""
