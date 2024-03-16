@@ -8,4 +8,4 @@ print("Modified text:-", new_text)
 # str = "Jay gohil"
 
 # replace_string = str.replace("gohil", "Gohil")
-# print(replace_string)
+# print(replace_string)      
