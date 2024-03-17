@@ -35,4 +35,3 @@ def glob_function():
 glob_function()
 print(x) # This will print 10
 
-
