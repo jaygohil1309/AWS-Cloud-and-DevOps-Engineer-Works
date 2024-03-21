@@ -12,3 +12,4 @@ My Name is Jay Gohil.
 * Programming Languages:- Python, Bash[Shell Scripting]
 * Monitoring & Logging:- CloudWatch, AWS CloudTrail, ELk Stack
 * Version Control:- Git, Github
+* Databases:- MySQL/PostgreSQL, Amazon-RDS, Amazon DynamoDB
