@@ -10,3 +10,5 @@ My Name is Jay Gohil.
 * DevOps Tools:- Jenkins, GitLab CI/CD, Docker, Kubernetes
 * Infrastructure as Code(IaC):- Terraform, AWS CloudFormation
 * Programming Languages:- Python, Bash[Shell Scripting]
+* Monitoring & Logging:- CloudWatch, AWS CloudTrail, ELk Stack
+* 
