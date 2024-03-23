@@ -20,3 +20,13 @@ In this example, "my_package" is a python package containing modules "module1" a
 
 """
 
+# Example of Packages :-
+
+# Import the entire module
+
+import math
+
+# Use function/variables from the module
+
+result = math.sqrt(16)
+print(result)
