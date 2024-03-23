@@ -26,7 +26,12 @@ In this example, "my_package" is a python package containing modules "module1" a
 
 import math
 
-# Use function/variables from the module
+# Use function/variables from the module.....
 
 result = math.sqrt(16)
 print(result)
+
+# Import specific function/variable from a module.....
+
+from math import pi
+print(pi)
