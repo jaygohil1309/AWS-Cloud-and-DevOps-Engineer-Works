@@ -9,9 +9,9 @@ my_package/
 """
 # You can use modules from this package as follow :-
 
-from my_package import module1
+# from my_package import module1
 
-result = module1.function_from_module1()
+# result = module1.function_from_module1()
 
 """
 
