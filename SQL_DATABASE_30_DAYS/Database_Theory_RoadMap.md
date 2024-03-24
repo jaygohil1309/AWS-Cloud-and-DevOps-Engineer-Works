@@ -23,8 +23,8 @@ DAY 4-7) Basic SQL Queries
 
 DAY 8-14) Working with Multiple Tables
 
-=> Day 8: Introduction to JOIN Operations.
-=> Day 9: INNER JOIN and LEFT JOIN.
+=> Day 8:  Introduction to JOIN Operations.
+=> Day 9:  INNER JOIN and LEFT JOIN.
 => Day 10: RIGHT JOIN and FULL JOIN.
 => Day 11: Subqueries and Correlated subqueries.
 => Day 12: Creating and Modifying tables with CREATE,ALTER, and DROP.
