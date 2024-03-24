@@ -59,3 +59,29 @@ DAY 26-30) Real-World Projects
 
 => Day 30: Final review and practice, explore advanced topics in depth, or work on a 
            personal project.
+
+
+# SQL COMMANDS :-
+
+                    ****  SQL Command Types ****
+
+# 1) DDL :- Data Define / Defination Language.....
+
+==>> Create -->> Altet -->> Drop -->> Truncate -->> Rename.
+
+# 2) DML :- Data Manipulation Language.....
+
+==>> Insert -->> Update -->> Delete -->> Merge.
+
+# 3) DCL :- Data Control Language.....
+
+==>> Grant -->> Revoke.
+
+# 4) TCL :- Transaction Control Language.....
+
+==>> Commit -->> Rollback -->> Save Point.
+
+# 5) DQL :- Data Query Language.....
+
+==>> SELECT.
+                                  
