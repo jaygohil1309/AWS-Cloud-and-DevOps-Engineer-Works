@@ -84,4 +84,15 @@ DAY 26-30) Real-World Projects
 # 5) DQL :- Data Query Language.....
 
 ==>> SELECT.
-                                  
+
+# 6) Aggregate Functions.....
+
+==>> COUNT -->> MIN -->> SUM -->> GROUP BY -->> ABG -->> HAVING -->> MAX -->> ORDER BY.
+
+# 7) Filtering Data.....
+
+==>> LIKE -->> WHERE -->> IN -->> AND -->> IS NULL -->> OR -->> IS NOT NULL -->> BETWEEN.
+
+# 8) Combining Data.....
+
+==>> INNER JOIN -->> RIGHT JOIN -->> LEFT JOIN -->> FULL JOIN -->> SELF JOIN.
