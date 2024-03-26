@@ -19,5 +19,3 @@ num2 = int(sys.argv[3])
 if operation == "add":
     output = add(num1, num2)
     print(output)
-
-
