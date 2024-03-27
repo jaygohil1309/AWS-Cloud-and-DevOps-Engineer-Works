@@ -17,7 +17,7 @@ def div(num1, num2):
     return div
 
 def modulus(num1, num2):
-    modular = num1 % num2
+    modulus = num1 % num2
     return modulus
 
 num1 = int(sys.argv[1])
