@@ -16,3 +16,14 @@ num1 = int(sys.argv[1])
 operation = sys.argv[2]
 num2 = int(sys.argv[3])
 
+operations = {
+    "add" : add,
+    "sub" : sub,
+    "multi" : multi
+}
+
+if operation in operations:
+    output = operations[operation](num1, num2)
+    print(output)
+else:
+    print("Invalid Operations.....")
