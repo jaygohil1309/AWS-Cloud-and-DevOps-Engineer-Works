@@ -16,9 +16,9 @@ def div(num1, num2):
     div = num1 / num2
     return div
 
-def modular(num1, num2):
+def modulus(num1, num2):
     modular = num1 % num2
-    return modular
+    return modulus
 
 num1 = int(sys.argv[1])
 operation = sys.argv[2]
@@ -29,7 +29,7 @@ operations = {
     "sub" : sub,
     "multi" : multi,
     "div" : div,
-    "moduler" : modular
+    "modulus" : modulus
 }
 
 if operation in operations:
