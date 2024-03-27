@@ -23,3 +23,7 @@ num2 = int(sys.argv[3])
 if operation == "multi":
     output = multi(num1, num2)
     print(output)
+
+if operation == "sub":
+    output = sub(num1, num2)
+    print(output)
