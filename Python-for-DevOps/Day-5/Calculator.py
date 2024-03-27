@@ -12,6 +12,10 @@ def multi(num1, num2):
     multi = num1 * num2
     return multi
 
+def div(num1, num2):
+    div = num1 / num2
+    return div
+
 num1 = int(sys.argv[1])
 operation = sys.argv[2]
 num2 = int(sys.argv[3])
@@ -19,7 +23,8 @@ num2 = int(sys.argv[3])
 operations = {
     "add" : add,
     "sub" : sub,
-    "multi" : multi
+    "multi" : multi,
+    "div" : div
 }
 
 if operation in operations:
