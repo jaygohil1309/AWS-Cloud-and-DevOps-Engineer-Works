@@ -36,4 +36,4 @@ if operation in operations:
     output = operations[operation](num1, num2)
     print(output)
 else:
-    print("Invalid Operations.....")  
+    print("Invalid Operations.....")
