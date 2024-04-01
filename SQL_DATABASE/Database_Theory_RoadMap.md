@@ -204,3 +204,17 @@ DAY 26-30) Real-World Projects
 * UNION and UNION ALL :-
                         Combining results from multiple queries
          
+# VIEWS :-
+            * Creating and managing views
+            * Updating and deleting through views
+
+# Stored Procedures and Functions :-
+                                    * Creating stored procedures
+                                    * Creating functions
+                                    * Input and output parameters
+
+# TRIGGERS :- 
+                * Creating triggers
+                * Trigger types (BEFORE, AFTER)
+                * Trigger events (INSERT, UPDATE, DELETE)
+                
