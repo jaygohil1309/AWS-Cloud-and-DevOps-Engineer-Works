@@ -143,4 +143,21 @@ DAY 26-30) Real-World Projects
 
 * RENAME :- 
             Renaming tables and column
-            
+
+# Data Manipulation Language (DML) :-
+
+* SELECT :-
+            Basic SELECT statements
+            DISTINCT keyword
+            Aggregate functions (COUNT, SUM, AVG, MAX, MIN, HAVING clause)
+
+* INSERT :- 
+            Inserting single and multiple rows
+            Copying data from one table to another
+
+* UPDATE :- 
+            Updating existing records
+            Updating multiple columns
+
+* DELETE :- 
+            Deleting records from a table
