@@ -133,3 +133,14 @@ DAY 26-30) Real-World Projects
             Modifying tables
             Adding and dropping columns
             Modifying Constraints
+
+* DROP :- 
+            Dropping databases
+            Dropping tables
+
+* TRUNCATE :- 
+               Removing all records from a table
+
+* RENAME :- 
+            Renaming tables and column
+            
