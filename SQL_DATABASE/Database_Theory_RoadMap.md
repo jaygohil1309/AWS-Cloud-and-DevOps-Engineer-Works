@@ -170,5 +170,16 @@ DAY 26-30) Real-World Projects
 * REVOKE :-
             Revoking privileges from users
 
+# Transaction Control Language (TCL) :-
+
+* COMMIT :- 
+                Committing Transactions
+
+* ROLLBACK :-
+                Rolling back transactions
+
+* SAVEPOINT :- 
+                Creating savepoints within transactions
+                
 
          
