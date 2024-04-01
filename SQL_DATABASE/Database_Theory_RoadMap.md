@@ -181,5 +181,23 @@ DAY 26-30) Real-World Projects
 * SAVEPOINT :- 
                 Creating savepoints within transactions
                 
+# Indexes and Performance Optimization :-
 
+* INDEXES :-
+                Creating Indexes
+                Types of indexex (B-tree, Hash, etc.)
+
+* Query Optimization :-
+                        Analyzing query performance
+                        Using EXPLAIN Statement
+
+# Advanced Querying :-
+
+* Subqueries :-
+                Single-row subqueries
+                Multi-row subqueries
+                Correlated subqueries
+
+* Joins :-
+                INNER JOIN, LEFT JOIN, RIGHT JOIN, Self-joins
          
