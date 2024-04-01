@@ -110,3 +110,15 @@ DAY 26-30) Real-World Projects
                 Character types
                 Data and time types
                 Other types (BOOLEAN, BLOB, etc)
+
+*** SQL Statement :-
+                    SELECT Statement
+                    INSERT Statement
+                    UPDATE Statement
+                    DELETE Statement
+
+*** Basic Querying :-
+                    Filtering data with WHERE
+                    Sorting data with ORDER BY
+                    Limiting results with LIMIT
+                    
