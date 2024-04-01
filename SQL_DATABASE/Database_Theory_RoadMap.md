@@ -96,3 +96,17 @@ DAY 26-30) Real-World Projects
 # 8) Combining Data.....
 
 ==>> INNER JOIN -->> RIGHT JOIN -->> LEFT JOIN -->> FULL JOIN -->> SELF JOIN.
+
+# Intro to Relational Database & SQL :-
+
+* Understanding Relational Databases.
+* Introduction to SQL (Structure Query Language)
+* Role of SQL in Database Management System (DBMS)
+
+# SQL Basics :-
+
+*** Data Types :-
+                Numeric types
+                Character types
+                Data and time types
+                Other types (BOOLEAN, BLOB, etc)
