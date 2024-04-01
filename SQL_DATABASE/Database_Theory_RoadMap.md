@@ -132,4 +132,4 @@ DAY 26-30) Real-World Projects
 * ALTER :- 
             Modifying tables
             Adding and dropping columns
-            Modifying Constraintss
+            Modifying Constraints
