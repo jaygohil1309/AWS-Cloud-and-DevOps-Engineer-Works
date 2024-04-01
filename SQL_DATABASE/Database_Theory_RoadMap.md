@@ -161,3 +161,14 @@ DAY 26-30) Real-World Projects
 
 * DELETE :- 
             Deleting records from a table
+
+# Data Control Language (DCL) :-
+
+* GRANT :- 
+            Granting privileges to users 
+
+* REVOKE :-
+            Revoking privileges from users
+
+
+         
