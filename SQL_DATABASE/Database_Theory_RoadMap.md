@@ -121,4 +121,15 @@ DAY 26-30) Real-World Projects
                     Filtering data with WHERE
                     Sorting data with ORDER BY
                     Limiting results with LIMIT
-                    
+
+# Data Definition Language (DDL) :-
+
+* CREATE :- 
+           Creating databases
+           Creating tables
+           Specifying Constraints (PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK)
+
+* ALTER :- 
+            Modifying tables
+            Adding and dropping columns
+            Modifying Constraintss
