@@ -198,6 +198,9 @@ DAY 26-30) Real-World Projects
                 Multi-row subqueries
                 Correlated subqueries
 
-* Joins :-
+* JOINS :-
                 INNER JOIN, LEFT JOIN, RIGHT JOIN, Self-joins
+
+* UNION and UNION ALL :-
+                        Combining results from multiple queries
          
