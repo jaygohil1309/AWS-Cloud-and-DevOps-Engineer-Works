@@ -231,4 +231,8 @@ DAY 26-30) Real-World Projects
                         * Understanding database normalization
                         * Denormalization and when to use it
 
-
+# Advanced Topics :-
+                        * Window Functions
+                        * Common Table Expressions (CTEs)
+                        * JSON in SQL
+                        * Full-text search
