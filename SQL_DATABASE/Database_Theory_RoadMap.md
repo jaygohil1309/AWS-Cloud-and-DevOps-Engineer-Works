@@ -222,4 +222,8 @@ DAY 26-30) Real-World Projects
 # Backup and Recovery :-
                         * Performing database backups
                         * Recovering from database failures
+                    
+# Security and Authentication :-
+                        * Managing user accounts
+                        * Securing databases and tables
                         
