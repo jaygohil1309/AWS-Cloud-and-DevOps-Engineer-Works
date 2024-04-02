@@ -241,4 +241,7 @@ DAY 26-30) Real-World Projects
                         * Integrating SQL with programming languages
                            (e.g., Python, Java)
                         * Using object-Relational Mapping (ORM) tools
-                        
+
+# Best Practices and Optimization :-
+                        * SQL coding standards
+                        * Query optimization techniques
