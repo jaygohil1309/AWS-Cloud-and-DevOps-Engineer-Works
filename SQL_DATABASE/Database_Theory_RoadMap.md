@@ -226,4 +226,9 @@ DAY 26-30) Real-World Projects
 # Security and Authentication :-
                         * Managing user accounts
                         * Securing databases and tables
-                        
+
+# Normalization and Denormalization :-
+                        * Understanding database normalization
+                        * Denormalization and when to use it
+
+
