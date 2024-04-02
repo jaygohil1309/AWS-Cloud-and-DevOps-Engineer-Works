@@ -218,3 +218,8 @@ DAY 26-30) Real-World Projects
                 * Trigger types (BEFORE, AFTER)
                 * Trigger events (INSERT, UPDATE, DELETE)
                 
+
+# Backup and Recovery :-
+                        * Performing database backups
+                        * Recovering from database failures
+                        
