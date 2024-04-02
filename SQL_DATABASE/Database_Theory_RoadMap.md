@@ -252,3 +252,6 @@ DAY 26-30) Real-World Projects
 
 # Version Control for Database Schema :-
                         * Using version control systems for database schema
+                        * Managing database migrations
+
+    
