@@ -254,4 +254,8 @@ DAY 26-30) Real-World Projects
                         * Using version control systems for database schema
                         * Managing database migrations
 
+# NoSQL Databases :-
+                        * Introduction to NoSQL databases
+                        * Contrasting with SQL databases
+                        * MongoDB
     
