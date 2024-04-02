@@ -249,3 +249,6 @@ DAY 26-30) Real-World Projects
 # Case Studies and Real-world Applications :-
                         * Analyzing real-world database problems
                         * Designing and optimizing databases for specific scenarios
+
+# Version Control for Database Schema :-
+                        * Using version control systems for database schema
