@@ -258,6 +258,4 @@ DAY 26-30) Real-World Projects
                         * Introduction to NoSQL databases
                         * Contrasting with SQL databases
                         * MongoDB
-
-
     
