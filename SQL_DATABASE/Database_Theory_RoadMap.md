@@ -245,3 +245,7 @@ DAY 26-30) Real-World Projects
 # Best Practices and Optimization :-
                         * SQL coding standards
                         * Query optimization techniques
+
+# Case Studies and Real-world Applications :-
+                        * Analyzing real-world database problems
+                        * Designing and optimizing databases for specific scenarios
