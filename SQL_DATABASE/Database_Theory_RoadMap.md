@@ -236,3 +236,9 @@ DAY 26-30) Real-World Projects
                         * Common Table Expressions (CTEs)
                         * JSON in SQL
                         * Full-text search
+
+# Frameworks and ORM :-
+                        * Integrating SQL with programming languages
+                           (e.g., Python, Java)
+                        * Using object-Relational Mapping (ORM) tools
+                        
