@@ -7,4 +7,3 @@ Day 1-3) Introduction and Setup :-
 ==>> Day 3:- Setting up a sample database and practicing basic commands.
 
 """
-
