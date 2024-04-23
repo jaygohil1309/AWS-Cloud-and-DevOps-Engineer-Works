@@ -45,5 +45,3 @@ x = 5
 
 y = 10
 y += 3  # Equivalent to y = y + 3
-
-```
