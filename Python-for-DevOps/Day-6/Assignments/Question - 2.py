@@ -1,4 +1,4 @@
-# Task 2:- Comparison Operations
+# Task 2:- Comparison Operators
 
 """
 

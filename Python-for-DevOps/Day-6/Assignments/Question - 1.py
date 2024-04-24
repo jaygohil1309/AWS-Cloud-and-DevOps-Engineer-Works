@@ -3,7 +3,7 @@
 *** Python Operations Assignments :-
 
 """
-# Task 1:- Arithmetic Operations
+# Task 1:- Arithmetic Operators
 
 """
 
