@@ -12,4 +12,18 @@ a = 10
 b = 5
 
 result = a > b # Result is True
+result = a < b # Result is False
+
 print(result)
+
+"""
+
+less_than = a < b
+greater_than = a > b
+less_than_or_equal_to = a <= b
+greater_than_or_equal_to = a >= b
+equal_to = a == b
+not_equal_to = a != b
+
+"""
+
