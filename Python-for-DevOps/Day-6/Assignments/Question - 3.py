@@ -16,3 +16,9 @@ result2 = not(x > 3 and x < 10) # Result is False (Because not is used to revers
 print(result)
 print(result1)
 print(result2)
+
+
+
+
+
+
