@@ -8,4 +8,7 @@
 3. Print the final value of total.
 
 """
+total = 10
 
+total += 5
+print(total)
