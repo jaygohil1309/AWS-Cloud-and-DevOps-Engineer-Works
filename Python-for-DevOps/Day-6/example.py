@@ -15,5 +15,3 @@ print(result) # Result: 0001 (Deciman : 1)
 
 
 
-
-
