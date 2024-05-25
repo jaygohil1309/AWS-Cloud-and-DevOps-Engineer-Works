@@ -10,3 +10,10 @@ y = 3 # Binary : 0011
 result = x & y
 print(result) # Result: 0001 (Deciman : 1)
 
+
+
+
+
+
+
+
