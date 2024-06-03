@@ -21,5 +21,3 @@ print(result2)
 
 
 
-
-
