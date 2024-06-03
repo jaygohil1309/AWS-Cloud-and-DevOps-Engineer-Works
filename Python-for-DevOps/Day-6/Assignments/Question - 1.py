@@ -8,7 +8,7 @@
 """
 
 1. Create two variables a and b with numeric values.
-2. Calculate the sum, difference, product and quotient of a and b.
+2. Calculate the sum, difference, product[Multiplication] and quotient[Division] of a and b.
 3. print results.
 
 """
