@@ -35,5 +35,3 @@ print(result2)
 
 
 
-
-
