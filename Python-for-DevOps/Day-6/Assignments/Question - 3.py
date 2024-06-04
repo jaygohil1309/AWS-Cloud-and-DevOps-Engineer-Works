@@ -32,6 +32,3 @@ print(result2)
 
 
 
-
-
-
