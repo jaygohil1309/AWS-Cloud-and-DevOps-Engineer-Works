@@ -22,7 +22,3 @@ print(result2)
 
 
 
-
-
-
-
