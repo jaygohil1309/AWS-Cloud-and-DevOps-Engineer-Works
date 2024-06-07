@@ -19,7 +19,3 @@ print(result2)
 
 
 
-
-
-
-
