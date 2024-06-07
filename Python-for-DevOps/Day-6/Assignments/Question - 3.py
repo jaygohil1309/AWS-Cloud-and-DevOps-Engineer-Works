@@ -27,5 +27,3 @@ print(result2)
 
 
 
-
-
