@@ -20,6 +20,3 @@ print(result2)
 
 
 
-
-
-
