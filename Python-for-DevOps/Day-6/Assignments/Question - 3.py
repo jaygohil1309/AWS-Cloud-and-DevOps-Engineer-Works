@@ -23,6 +23,3 @@ print(result2)
 
 
 
-
-
-
