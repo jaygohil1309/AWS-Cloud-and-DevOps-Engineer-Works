@@ -30,4 +30,3 @@
                                             your DevOps career.
 
                             
-
