@@ -17,5 +17,11 @@
                                             career.
                                             From the right mindset to essential skills, this video covers it all.
 
-4) 
+4) Avoid Wrong Motivations for DevOps :-    Don't pursue DevOps for the wrong reasons like
+                                            like easy money or remote work.
+                                            Find out why genuine interest and the right
+                                            motivations are key to long-term success in
+                                            DevOps.
+
+
                                         
