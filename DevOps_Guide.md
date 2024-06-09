@@ -12,5 +12,10 @@
                                             Learn why these beliefs are misleading and what
                                             a DevOps career really involves.
 
+3) Prepare for the Real DevOps Journey :-   Get a realistic perspective on what it takes to
+                                            crack a DevOps job and advance your DevOps
+                                            career.
+                                            From the right mindset to essential skills, this video covers it all.
 
+4) 
                                         
