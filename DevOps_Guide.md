@@ -23,5 +23,10 @@
                                             motivations are key to long-term success in
                                             DevOps.
 
+5) Get Expert DevOps Roadmaps :-            Whether you're starting fresh or aiming to 
+                                            scale up, this video provides two detailed
+                                            roadmaps tailored to your DevOps journey.
+                                            Learn how to strategically plan and navigate
+                                            your DevOps career.
 
                                         
