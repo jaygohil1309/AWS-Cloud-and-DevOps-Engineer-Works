@@ -24,9 +24,11 @@
 # Comments in Python :-
 
 # Single line comment.
-""" Multi-lines Comments """
 
 #print("My name is Jay Gohil")
+
+""" Multi-lines Comments """
+
 """
 My name is Jay gohil.
 I am an AWS and DevOps Engineer as Beginner.
