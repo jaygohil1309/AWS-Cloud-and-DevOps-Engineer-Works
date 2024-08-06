@@ -16,7 +16,18 @@
 
 # Print Sum of Two variables....
 
-a = 500
-b = 200
-sum = a + b
-print(sum)
+# a = 500
+# b = 200
+# sum = a + b
+# print(sum)
+
+# Comments in Python :-
+
+# Single line comment.
+""" Multi-lines Comments """
+
+#print("My name is Jay Gohil")
+"""
+My name is Jay gohil.
+I am an AWS and DevOps Engineer as Beginner.
+"""
