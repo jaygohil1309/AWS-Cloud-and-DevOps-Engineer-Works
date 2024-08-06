@@ -70,10 +70,37 @@
 # print("Age :",age)
 # print("Marks :",marks)
 
-# Write a Program to input 2 numbers & print their sum.
+# 1) Write a Program to input 2 numbers & print their sum.
 
-a = int(input("Enter Number 1 :"))
-b = int(input("Enter Number 2 :"))
+# a = int(input("Enter Number 1 :"))
+# b = int(input("Enter Number 2 :"))
 
-sum = a + b
-print("Sum of Two Numbers :",sum)
+# sum = a + b
+# print("Sum of Two Numbers :",sum)
+
+# 2) WAP to input side of square & print its area.
+
+# side = 5
+
+# # Area_of_Square = a ** 2
+# # side = a * a
+# # print("Area :", side * side)
+# print("Area :", side ** 2)
+
+# 3) WAP to input 2 floating point numbers & print their average.
+
+# a = float(input("Enter Number 1:"))
+# b = float(input("Enter Number 2:"))
+
+# Average = (a + b) / 2
+# print("Average of two floating numbers :", Average)
+
+# 4) WAP to input 2 int numbers, a and b. print True if a is greater than or equal to b. If not print False.
+
+a = int(input("Enter Number1 :"))
+b = int(input("Enter Number2 :"))
+
+if a >= b:
+    print(True)
+else:
+    print(False)
