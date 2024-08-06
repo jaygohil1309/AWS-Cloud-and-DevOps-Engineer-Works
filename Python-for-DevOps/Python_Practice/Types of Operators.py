@@ -26,13 +26,22 @@
 
 # Assignment Operators :-
 
-num = 10
-# num = num + 10
-# num += 10
-# num -= 10
-# num *= 10
-# num /= 10
-num **= 5
-print("num :", num)
+# num = 10
+# # num = num + 10
+# # num += 10
+# # num -= 10
+# # num *= 10
+# # num /= 10
+# num **= 5
+# print("num :", num)
 
 
+# Logical Operators :-
+
+# print(not False)
+# print(not True)
+
+val1 = True
+val2 = False
+print("AND Operator:", val1 and val2) # False
+print("OR Operator:", val1 or val2) # True
