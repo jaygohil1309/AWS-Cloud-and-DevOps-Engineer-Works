@@ -33,8 +33,8 @@
 
 str = "Apna College"
 new_str = str[1:4] # pna
-new_str1 = str[:4] # Apna
-new_str2 = str[1:] # pna 
+new_str1 = str[:4] # Apna [0:4]
+new_str2 = str[5:] # pna [5:len(str)]
 
 print(str[5:len(str)]) # Important....
 
