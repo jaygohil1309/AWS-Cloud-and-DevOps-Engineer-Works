@@ -19,6 +19,7 @@
 # print(str1)
 # print(str2)
 
+
 # 2) String_Indexing :-
 
 str = "Apna_College"
@@ -26,3 +27,5 @@ str[2] = "n" # TypeError: 'str' object does not support item assignment....
 # char = str[4]
 # print(str[2])
 print(str)
+
+ 
