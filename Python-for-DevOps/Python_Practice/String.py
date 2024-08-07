@@ -50,22 +50,37 @@
 
 
 # String Functions :-
-str = "I am a Coder."
+# str = "I am a Coder."
 
-str1 = str.endswith("er.") # return True if string ends with substr.....
-print(str1)
+# str1 = str.endswith("er.") # return True if string ends with substr.....
+# print(str1)
 
-str2 = str.capitalize() # capitalize 1st char.....
-print(str2)
+# str2 = str.capitalize() # capitalize 1st char.....
+# print(str2)
 
-str3 = str.upper() # Convert into Upper_Case all the string.....
-print(str3)
+# str3 = str.upper() # Convert into Upper_Case all the string.....
+# print(str3)
 
-str4 = str.replace("Coder", "Cloud and DevOps Engineer") # replaces all occurrences of Old with New.....
-print(str4)
+# str4 = str.replace("Coder", "Cloud and DevOps Engineer") # replaces all occurrences of Old with New.....
+# print(str4)
 
-str5 = str.find("C") # returns 1st index of 1st occurrence.....
-print(str5)
+# str5 = str.find("C") # returns 1st index of 1st occurrence.....
+# print(str5) # If any words not included in this string then output is [-1].
 
-str6 = str.count("Coder") # Counts the occurrence of substr in string.....
-print(str6) 
+# str6 = str.count("Coder") # Counts the occurrence of substr in string.....
+# print(str6) 
+
+# 1) WAP to input user's first name & print its length ??
+
+# str = input("Enter Your name :")
+# len_str = len(str)
+# print(len_str)
+
+# str = "Jay Gohil"
+# print(len(str))
+
+# 2) WAP to find the occurrence of "$" in a string ?
+
+str = "jay@#*&^gohil$%#"
+print(str.find("$"))
+print(str.count("$"))
