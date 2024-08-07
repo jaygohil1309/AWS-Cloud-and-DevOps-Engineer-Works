@@ -22,10 +22,22 @@
 
 # 2) String_Indexing :-
 
-str = "Apna_College"
-str[2] = "n" # TypeError: 'str' object does not support item assignment....
-# char = str[4]
-# print(str[2])
-print(str)
+# str = "Apna_College"
+# str[2] = "n" # TypeError: 'str' object does not support item assignment....
+# # char = str[4]
+# # print(str[2])
+# print(str)
 
  
+# String_Slicing :-
+
+str = "Apna College"
+new_str = str[1:4] # pna
+new_str1 = str[:4] # Apna
+new_str2 = str[1:] # pna 
+
+print(str[5:len(str)]) # Important....
+
+print(new_str2)
+print(new_str1)
+print(new_str)
