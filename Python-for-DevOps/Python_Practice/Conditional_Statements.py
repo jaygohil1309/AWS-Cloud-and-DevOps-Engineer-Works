@@ -42,14 +42,25 @@
 
 # Nested If______Else Condition......
 
-age = 85
+# age = 85
 
-# Nesting......
+# # Nesting......
 
-if (age >= 18):
-    if age >= 80:
-        print("Cannot Drive")
-    else:
-        print("Can Drive")
-else:
-    print("Cannot Drive")
+# if (age >= 18):
+#     if age >= 80:
+#         print("Cannot Drive")
+#     else:
+#         print("Can Drive")
+# else:
+#     print("Cannot Drive")
+
+
+# Practice Examples....
+
+"""
+
+1) WAP to check if a number entered by the user is odd or even ?
+2) WAP to find the greatest of 3 numbers entered by the user ?
+3) WAP to check if a number is a multiple of 7 or not ?
+
+"""
