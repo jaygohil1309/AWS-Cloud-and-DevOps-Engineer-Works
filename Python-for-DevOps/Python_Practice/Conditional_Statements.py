@@ -16,11 +16,12 @@
 
 # 2) Else____If.......
 
-Light = input("Enter all the Signle lights :")
+# Light = input("Enter all the Signle lights :")
 
-if(Light == "Green"):
-    print("Go")
-elif(Light == "Yellow"):
-    print("Look")
-else:
-    print("Stop")
+# if(Light == "Green"):
+#     print("Go")
+# elif(Light == "Yellow"):
+#     print("Look")
+# else:
+#     print("Stop")
+
