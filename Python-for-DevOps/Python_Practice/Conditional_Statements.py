@@ -27,15 +27,29 @@
 
 # Example :- Grade Students Based On Marks.....
 
-marks = int(input("Enter a marks :"))
+# marks = int(input("Enter a marks :"))
 
-if marks >= 90:
-    print("Grade - A")
-elif marks > 90 and marks >= 80:
-    print("Grade - B")
-elif marks > 80 and marks >= 70:
-    print("Grade - C")
-elif marks > 70:
-    print("Grade - D")
+# if marks >= 90:
+#     print("Grade - A")
+# elif marks > 90 and marks >= 80:
+#     print("Grade - B")
+# elif marks > 80 and marks >= 70:
+#     print("Grade - C")
+# elif marks > 70:
+#     print("Grade - D")
+# else:
+#     print("Failed")
+
+# Nested If______Else Condition......
+
+age = 85
+
+# Nesting......
+
+if (age >= 18):
+    if age >= 80:
+        print("Cannot Drive")
+    else:
+        print("Can Drive")
 else:
-    print("Failed")
+    print("Cannot Drive")
