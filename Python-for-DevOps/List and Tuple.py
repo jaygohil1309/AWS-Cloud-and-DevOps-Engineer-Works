@@ -54,10 +54,18 @@
 
 # Question 2) WAP to check if a list contains a palindrome of elements. (Hint: use copy() method)
 
-list = [1,2,3,2,1]
+# list = [1,2,3,2,1]
 
-result = list.copy()
-print("Copied_List :",result)
+# result = list.copy()
+# print("Copied_List :",result)
 
-result.reverse()
-print("Palindrome :",result)
+# result.reverse()
+# print("Palindrome :",result)
+
+# Question 3) WAP to count the number of students with the "A" grade in the following tuple.
+
+# list = ["C", "D", "A", "A", "B", "B", "A"]
+
+# result = list.count("A")
+# print("Number of Students with 'A' Grade :",result)
+
