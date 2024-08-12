@@ -69,3 +69,11 @@
 # result = list.count("A")
 # print("Number of Students with 'A' Grade :",result)
 
+
+# 4) Store the above values in a list and sort them from "A" to "D".
+
+list = ["C", "D", "A", "A", "B", "B", "A"]
+
+list.sort()
+print("Sorted_List :",list)
+
