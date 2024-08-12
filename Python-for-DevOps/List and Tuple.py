@@ -29,7 +29,25 @@
 
 # TUPLE in Python :- Im-mutable......
 
-tup = (2, 1, 3, 1)
-print(type(tup))
-print(tup[0])
-print(tup[1])
+# tup = (2, 1, 3, 1)
+# print(type(tup))
+# print(tup[0])
+# print(tup[1])
+
+# Practice Questions of List and Tuple :-
+
+# Question 1) WAP to ask the user to enter names of their 3 favorite movies and store them in list.
+
+# name1 = input("Enter Movie Name 1:")
+# name2 = input("Enter Movie Name 2:")
+# name3 = input("Enter Movie Name 3:")
+
+# movies_name = [name1, name2, name3]
+# print(movies_name)
+
+movies = []
+movies.append(input("Enter 1st Movie:"))
+movies.append(input("Enter 2st Movie:"))
+movies.append(input("Enter 3st Movie:"))
+
+print(movies)
