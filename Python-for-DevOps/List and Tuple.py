@@ -45,9 +45,19 @@
 # movies_name = [name1, name2, name3]
 # print(movies_name)
 
-movies = []
-movies.append(input("Enter 1st Movie:"))
-movies.append(input("Enter 2st Movie:"))
-movies.append(input("Enter 3st Movie:"))
+# movies = []
+# movies.append(input("Enter 1st Movie:"))
+# movies.append(input("Enter 2st Movie:"))
+# movies.append(input("Enter 3st Movie:"))
 
-print(movies)
+# print(movies)
+
+# Question 2) WAP to check if a list contains a palindrome of elements. (Hint: use copy() method)
+
+list = [1,2,3,2,1]
+
+result = list.copy()
+print("Copied_List :",result)
+
+result.reverse()
+print("Palindrome :",result)
