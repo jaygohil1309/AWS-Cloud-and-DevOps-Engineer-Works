@@ -15,3 +15,7 @@ marks = [85, 94, 76, 63, 48]
 print(marks[1:4]) # Slicing_Method
 print(marks[-3:-1])
 print(len(marks))
+
+new = ['Jay', 'Vishvam']
+marks.extend(new)
+print(marks)
