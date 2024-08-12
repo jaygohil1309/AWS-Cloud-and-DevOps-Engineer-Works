@@ -30,4 +30,6 @@
 # TUPLE in Python :- Im-mutable......
 
 tup = (2, 1, 3, 1)
-print(tup(type))
+print(type(tup))
+print(tup[0])
+print(tup[1])
