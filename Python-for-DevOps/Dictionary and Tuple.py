@@ -5,3 +5,4 @@ dict = {
     'name' : "apnacollege",
     'learning' : "coding"
 }
+print(dict)
