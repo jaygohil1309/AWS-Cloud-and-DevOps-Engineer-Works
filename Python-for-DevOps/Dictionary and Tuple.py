@@ -41,9 +41,10 @@ student = {
 # print(student.values()) # gives me all the values from dictionary.....
 
 # print(student.items()) # returns all (key, value) pairs as tuples.....
-
 # print(student['name2']) # Error
 # print(student.get('name2')) # no error -> None.
 
-student.update({'city' : 'Kodinar'})
+# student.update({'city' : 'Kodinar'})
+# print(student)
+student.update({'name' : 'Jay Gohil'}) # Updating the dictionary with old value to replace new value in this dict.
 print(student)
