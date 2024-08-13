@@ -41,3 +41,6 @@ print(len(student))
 print(student.values()) # gives me all the values from dictionary.....
 
 print(student.items()) # returns all (key, value) pairs as tuples.....
+
+print(student['name2']) # Error
+print(student.get('name2')) # no error -> None.
