@@ -1,4 +1,4 @@
-# Dictionary in Python :-
+# Dictionary in Python :- Dictionary accepting all the data-types.
 
 dict = {
     'key' : "value",
