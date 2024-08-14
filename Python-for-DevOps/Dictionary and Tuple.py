@@ -48,3 +48,9 @@
 # print(student)
 # student.update({'name' : 'Jay Gohil'}) # Updating the dictionary with old value to replace new value in this dict.
 # print(student)
+
+# Tuple in Python :-
+
+collection = {1,2,2,3,4, "hello", "world", "world", 4} # Ignore duplicate values.....
+print(collection)
+print(type(collection))
