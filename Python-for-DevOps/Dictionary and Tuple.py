@@ -25,14 +25,14 @@
 
 # Nested_Dictionary :-
 
-student = {
-    'name' : 'Jay',
-    'subjects' :{
-        'chem' : 97,
-        'phy' : 94,
-        'math' : 95
-    }
-}
+# student = {
+#     'name' : 'Jay',
+#     'subjects' :{
+#         'chem' : 97,
+#         'phy' : 94,
+#         'math' : 95
+#     }
+# }
 # print(student) # print all data from nested_dict.....
 # print(student['subjects']['chem']) # Print only all the subjects from dictionary.....
 
@@ -46,5 +46,5 @@ student = {
 
 # student.update({'city' : 'Kodinar'})
 # print(student)
-student.update({'name' : 'Jay Gohil'}) # Updating the dictionary with old value to replace new value in this dict.
-print(student)
+# student.update({'name' : 'Jay Gohil'}) # Updating the dictionary with old value to replace new value in this dict.
+# print(student)
