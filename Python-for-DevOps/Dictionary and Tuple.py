@@ -51,6 +51,26 @@
 
 # Tuple in Python :-
 
-collection = {1,2,2,3,4, "hello", "world", "world", 4} # Ignore duplicate values.....
-print(collection)
-print(type(collection))
+# collection = {1,2,2,3,4, "hello", "world", "world", 4} # Ignore duplicate values.....
+# print(collection)
+# print(type(collection))
+# print(len(collection))
+
+# Empty_Set :-
+
+# collection = {} # Empty_dict....
+# collection = set() # Empty_set; Syntax
+# print(type(collection))
+
+# Set_Union() Method:-
+
+# set1 = {1,2,3}
+# set2 = {2,3,4}
+
+# print(set1.union(set2)) # Output = {1,2,3,4,5}
+
+# Set_Intersection() Method:-
+
+set1 = {1,2,3}
+set2 = (3,4,5)
+print(set1.intersection(set2)) # Output = {3}
