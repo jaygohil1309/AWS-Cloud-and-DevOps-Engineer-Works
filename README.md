@@ -1,6 +1,8 @@
-👋 Hello! I’m Jay Gohil, a dedicated AWS Cloud and DevOps Engineer.
+**JayGohil-CloudOps-Strategies**
 
-Welcome to my GitHub repository! Here, you’ll find a collection of my work and projects related to cloud computing, DevOps practices, and infrastructure automation.
+**👋 Hello! I’m Jay Gohil, a dedicated AWS Cloud and DevOps Engineer.**
+
+**Welcome to my GitHub repository! Here, you’ll find a collection of my work and projects related to cloud computing, DevOps practices, and infrastructure automation.**
 
 ### 🚀 Skills & Expertise:
 
@@ -32,5 +34,3 @@ Welcome to my GitHub repository! Here, you’ll find a collection of my work and
 #### Databases:
 - **Systems**: MySQL/PostgreSQL, Amazon RDS, Amazon DynamoDB
 - **Skills**: Database design, optimization, backup strategies
-
-Feel free to share more about your projects or any specific areas you’d like to highlight!
